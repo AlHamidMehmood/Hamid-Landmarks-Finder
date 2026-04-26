@@ -1,0 +1,8 @@
+{
+  "name": "Hamid Landmarks Finder",
+  "description": "An AI-powered photo tourism app that identifies city landmarks and narrates their history in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
